@@ -4,6 +4,8 @@
 #
 ## Push Repo Changes To Github
 
+export GIT_TOKEN=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
+
 git status
 echo ""
 
